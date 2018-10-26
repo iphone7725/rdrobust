@@ -1,0 +1,31 @@
+v 7.6.0 
+d STATA Package: RDROBUST
+d 
+d Authors: Sebastian Calonico, Department of Economics, University of Miami, scalonico@bus.miami.edu
+d          Matias D. Cattaneo, Department of Economics and Department of Statistics, University of Michigan, cattaneo@umich.edu
+d          Max H. Farrell, Booth School of Business, University of Chicago, max.farrell@chicagobooth.edu
+d          Rocio Titiunik, Department of Political Science, University of Michigan, titiunik@umich.edu
+d
+d Date: 09-25-2018
+d 
+f rdbwselect.ado
+f rdplot.ado
+f rdplot.sthlp
+f rdbwselect.sthlp
+f rdrobust.ado
+f rdrobust.sthlp
+f rdrobust_bw.mo
+f rdrobust_functions.do
+f rdrobust_illustration.do
+f rdrobust_kweight.mo
+f rdrobust_senate.dta
+f rdrobust_res.mo
+f rdrobust_vce.mo
+d -----------------------
+d BACK COMPATIBILITY:
+d -----------------------
+f rdbwselect_2014.ado
+f rdbwselect_2014.sthlp
+f rdbwselect_2014_functions.do
+f rdbwselect_2014_kconst.ado
+
